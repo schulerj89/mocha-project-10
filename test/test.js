@@ -16,7 +16,7 @@ describe('Array', function() {
   });
 });
 
-/*
+ /*
   * Test the /GET route
   */
  describe('/GET main', () => {
